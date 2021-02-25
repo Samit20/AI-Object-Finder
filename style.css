@@ -1,0 +1,31 @@
+.heading {
+    width: 100%;
+    font-size: 20px;
+    margin: 0px;
+    box-shadow: 5px 5px 15px rgb(148, 8, 148);
+}
+
+body {
+    background-size: cover;
+}
+
+.footer {
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+    color: whitesmoke;
+    background-color: royalblue;
+    position: fixed;
+}
+
+#number_of_objects {
+    font-size: 13px;
+    color: black;
+}
+
+canvas {
+    border: 3px solid black;
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px maroon;
+    margin-top: 150px;
+}
